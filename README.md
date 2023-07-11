@@ -28,7 +28,7 @@ DATABASE_PORT="5432"
 
 To use ElephantQL as the platform to host your database, create a new instance, then click on the newly created instance and select -> Details. There you will see your database access credentials. You can then copy these to your server ‘.env’ file.
 
-In the root of the client folder -> create a `.env` and include your Google Maps API Key
+In the root of the client -> src folder -> create a `.env` and include your Google Maps API Key
 e.g.
 
 ```
